@@ -81,7 +81,7 @@ But where to srpead out the program? We started by asking: where do our users ha
 The answer was clear: Facebook groups 👥. These communities were active, social, and engaged, the perfect place to amplify sharing behavior.
 
 Step 1 – Build the community from scratch 
-We launched official Weee! groups and seeded them with early adopters, advocates, and super-users.
+We launched official Weee! groups and seeded them with early adopters, advocates, and power-users.
 
 Step 2: Activate members via multiple channels
 We used in-app notifications and email campaigns to invite users to join the groups. The combination ensured that high-intent users discovered the community and engaged immediately.
